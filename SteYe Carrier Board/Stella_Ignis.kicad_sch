@@ -1,0 +1,208 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c5d11792-4973-4485-9e35-93f3d5d05151")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 168.656 25.908)
+		(size 82.804 39.878)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37af8722-7f57-4c55-aa71-ba562076adb3")
+		(property "Sheetname" "User Interface"
+			(at 168.656 23.8314 0)
+			(effects
+				(font
+					(size 4 4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Stella_Ignis_UI.kicad_sch"
+			(at 168.656 66.3706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stella_Ignis"
+				(path "/c5d11792-4973-4485-9e35-93f3d5d05151"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.782 153.67)
+		(size 98.298 30.734)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4e8d46c8-8446-4aac-8c7f-af969ba15a39")
+		(property "Sheetname" "Power Stage"
+			(at 33.782 151.5934 0)
+			(effects
+				(font
+					(size 4 4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Stella_Ignis_Power.kicad_sch"
+			(at 33.782 184.9886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stella_Ignis"
+				(path "/c5d11792-4973-4485-9e35-93f3d5d05151"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 91.44)
+		(size 100.33 40.386)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9b8d8195-682a-4cc2-977f-3a280ad6e460")
+		(property "Sheetname" "ESP32"
+			(at 31.75 89.3634 0)
+			(effects
+				(font
+					(size 4 4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Stella_Ignis_ESP32.kicad_sch"
+			(at 31.75 132.4106 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stella_Ignis"
+				(path "/c5d11792-4973-4485-9e35-93f3d5d05151"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 169.164 91.948)
+		(size 82.042 38.608)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b13a2c69-f153-412e-b580-f2c18f7679bf")
+		(property "Sheetname" "uControlllers"
+			(at 169.164 89.8714 0)
+			(effects
+				(font
+					(size 4 4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Stella_Ignis_uC.kicad_sch"
+			(at 169.164 131.1406 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stella_Ignis"
+				(path "/c5d11792-4973-4485-9e35-93f3d5d05151"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.464 25.4)
+		(size 100.33 40.386)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "df6d1918-f2b6-45ff-a22d-7dc5dea38d21")
+		(property "Sheetname" "STM32"
+			(at 29.464 23.3234 0)
+			(effects
+				(font
+					(size 4 4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Stella_Ignis_STM32.kicad_sch"
+			(at 29.464 66.3706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Stella_Ignis"
+				(path "/c5d11792-4973-4485-9e35-93f3d5d05151"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
