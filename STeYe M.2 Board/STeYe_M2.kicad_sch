@@ -1,0 +1,130 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e5098078-2c80-46e8-82b9-86847b32f0cc")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 111.506 28.194)
+		(size 69.596 121.158)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3c217f5a-4343-4369-9621-a0e864cd84d0")
+		(property "Sheetname" "ESP32"
+			(at 111.506 26.1174 0)
+			(effects
+				(font
+					(size 4 4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STeYe_M2_ESP32.kicad_sch"
+			(at 111.506 149.9366 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STeYe_M2"
+				(path "/e5098078-2c80-46e8-82b9-86847b32f0cc"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 201.168 27.178)
+		(size 68.834 122.682)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "552ac8e6-44d5-465a-baa4-3fbb67fb9118")
+		(property "Sheetname" "M.2 GPIO"
+			(at 201.168 25.1014 0)
+			(effects
+				(font
+					(size 4 4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STeYe_M2_GPIO.kicad_sch"
+			(at 201.168 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STeYe_M2"
+				(path "/e5098078-2c80-46e8-82b9-86847b32f0cc"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 28.702 28.702)
+		(size 61.722 121.412)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a29f5c01-83ca-4363-b5b1-264645fd9da2")
+		(property "Sheetname" "STM32"
+			(at 28.702 26.6254 0)
+			(effects
+				(font
+					(size 4 4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "STeTe_M2_STM32.kicad_sch"
+			(at 28.702 150.6986 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "STeYe_M2"
+				(path "/e5098078-2c80-46e8-82b9-86847b32f0cc"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
