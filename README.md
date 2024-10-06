@@ -5,20 +5,20 @@ This flight computer is designed for high-performance rocketry competitions, off
 
 Key Features:
 
-Accelerometers: Dual-range accelerometers (+/-16g and +/-200g) for accurate low and high-g-force measurement during flight.
-Pressure Sensor: Atmospheric pressure monitoring for altitude and environmental data.
-Humidity & Temperature Sensor: Measures environmental conditions critical for flight analysis.
-Magnetometer: Provides orientation and heading information by sensing the Earth’s magnetic field.
-Current Sensor: Tracks power consumption for optimized energy management.
-Camera Interface (FPC): Supports OV5640 camera for video and image capture during flight.
-WiFi & Bluetooth: Wireless communication for data transfer and real-time telemetry.
-GNSS (Global Navigation Satellite System): Provides accurate positioning data for tracking and flight path monitoring.
-LoRa: Long-range, low-power communication capability for telemetry.
-Pyro Channel: Single pyro channel for controlled deployment of parachutes or other pyrotechnic devices.
-Motor Control: Supports either one dual-coil stepper motor or up to four servomotors, operating between 5V and 12V for mechanical actuation.
-Passive Buzzer: Provides audio alerts for critical status or events.
-LED Indicators: Visual feedback for power, status, and activity.
-Memory: Includes both flash storage and microSD for data logging and flight data retention.
+-  Accelerometers: Dual-range accelerometers (+/-16g and +/-200g) for accurate low and high-g-force measurement during flight.
+-  Pressure Sensor: Atmospheric pressure monitoring for altitude and environmental data.
+-  Humidity & Temperature Sensor: Measures environmental conditions critical for flight analysis.
+-  Magnetometer: Provides orientation and heading information by sensing the Earth’s magnetic field.
+-  Current Sensor: Tracks power consumption for optimized energy management.
+-  Camera Interface (FPC): Supports OV5640 camera for video and image capture during flight.
+-  WiFi & Bluetooth: Wireless communication for data transfer and real-time telemetry.
+-  GNSS (Global Navigation Satellite System): Provides accurate positioning data for tracking and flight path monitoring.
+-  LoRa: Long-range, low-power communication capability for telemetry.
+-  Pyro Channel: Single pyro channel for controlled deployment of parachutes or other pyrotechnic devices.
+-  Motor Control: Supports either one dual-coil stepper motor or up to four servomotors, operating between 5V and 12V for mechanical actuation.
+-  Passive Buzzer: Provides audio alerts for critical status or events.
+-  LED Indicators: Visual feedback for power, status, and activity.
+-  Memory: Includes both flash storage and microSD for data logging and flight data retention.
 
 Carrier Board (sensors and peripherals)
 ![Top View](https://github.com/user-attachments/assets/f09abfa1-e22d-46dc-ae9a-ede96a77ca30)
