@@ -21,8 +21,9 @@ Key Features:
 -  Memory: Includes both flash storage and microSD for data logging and flight data retention.
 
 Carrier Board (sensors and peripherals)
-![Top View](https://github.com/user-attachments/assets/f09abfa1-e22d-46dc-ae9a-ede96a77ca30)
-![Bottom view](https://github.com/user-attachments/assets/6a1c2b20-a7e8-4c4b-b34a-662e1468043d)
+![Top view](https://github.com/user-attachments/assets/a679c5c9-0647-404f-bcf0-e638ee19dabb)
+![Bottom view](https://github.com/user-attachments/assets/698dae06-fcf1-4b95-9d0a-c9d5fa6e2c56)
+
 
 M.2 Board (Microcontrollers and Wifi)
 ![Top View](https://github.com/user-attachments/assets/85c0ef93-dc5d-41cd-ac0f-49d2d76c5f3f)
